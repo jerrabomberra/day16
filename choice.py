@@ -15,9 +15,11 @@ def report():
     """prints a report on the coffee resource status"""
     pass
 
+
 def make_brew():
     """makes the coffee and presents it to the customer"""
     pass
+
 
 def accept_payment():
     """requests and checks payment value"""
